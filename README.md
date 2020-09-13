@@ -93,3 +93,8 @@
 Кроме того я рассмотрел исключительную ситуацию с неверным вводом и добавил соответствующее сообщение:
 
 ![Image alt](./Image5.8.png)
+
+## Источники:
+1) Папка с файлами Examples, установленная вместе Flat Assembler.
+2) https://studassistent.ru/assembler
+3) https://www.youtube.com/watch?v=68FkrKDzSlE&t=1s
